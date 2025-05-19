@@ -1,0 +1,6 @@
+android_app_import {
+  name: "sunup",
+  apk: "org.unifiedpush.distributor.sunup_10.apk",
+  certificate: "platform",
+  product_specific: true,
+}
